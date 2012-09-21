@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{7967F9CE-1430-0B3E-5B01-BEBD74CBAF06}") = "SnowLevel", "SnowLevel.csproj", "{6DA3C092-71DD-2E53-18EE-2FC1CE9C3FB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DA3C092-71DD-2E53-18EE-2FC1CE9C3FB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DA3C092-71DD-2E53-18EE-2FC1CE9C3FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DA3C092-71DD-2E53-18EE-2FC1CE9C3FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DA3C092-71DD-2E53-18EE-2FC1CE9C3FB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal
